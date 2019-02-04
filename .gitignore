@@ -1,0 +1,11 @@
+/.vs
+/arcade_Data
+/Library
+/UnityPackageManager
+/Temp
+/cache
+*.csproj
+
+*.userprefs
+*.sln
+
